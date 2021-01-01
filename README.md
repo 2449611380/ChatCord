@@ -23,4 +23,4 @@
 <br />
 <br />
 <br />
-<code><img src="https://github.com/2449611380/ChatCord/blob/main/effect%20img/01.png"></code>
+<code><img src="https://github.com/2449611380/ChatCord/blob/main/effect%20img/02.png"></code>
