@@ -12,11 +12,10 @@
 >>npm install
 >>>接下来就是运行了
 >>>npm run dev
-
 <br />
 <br />
-- 运行完成后输入 127.0.0.1:3000 就可以访问了
-- 或者 localhost:3000 本地访问
+>>> 运行完成后输入 127.0.0.1:3000 就可以访问了
+>>> 或者 localhost:3000 本地访问
 <br />
 <br />
 <code><img src="https://github.com/2449611380/ChatCord/blob/main/effect%20img/01.png"></code>
