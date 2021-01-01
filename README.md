@@ -4,8 +4,7 @@
 - 用node、socket.io、express打造实时线上聊天系统
 <br />
 <br />
-<br />
-
+<br /> 
 - 安装教程
 >使用git获取ChatCord
 >git clone git@github.com:2449611380/ChatCord.git
@@ -15,6 +14,7 @@
 >>>npm run dev
 <br />
 <br />
+- 运行完成后输入 127.0.0.1:3000 就可以访问了
+- 或者 localhost:3000 本地访问
 
-- 运行完成后输入127.0.0.1:3000进入页面
-- 或者localhost:3000本地访问
+<code><img src="https://github.com/2449611380/ChatCord/blob/main/effect%20img/01.png"></code>
